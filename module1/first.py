@@ -1,1 +1,1 @@
-print('kopa python kopa')
+print('hello world')
